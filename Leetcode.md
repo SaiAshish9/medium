@@ -1,3 +1,4 @@
-# Blog links :
 
-Q1. https://medium.com/@saiashish3760
+# Problem Set Questions
+
+Q1. https://medium.com/@saiashish3760/leetcode-problem-set-q1-two-sum-d2f61adbadb3
