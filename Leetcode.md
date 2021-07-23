@@ -1,7 +1,3 @@
 # Blog links :
 
-Q1. https://medium.com/me/settings
-
-Q2.
-
-
+Q1. https://medium.com/@saiashish3760
